@@ -40,10 +40,8 @@ MarkDown 내용 정리
 <!-- Link -->
 Click [Mys Git hub](http://github.com/내주소)
 
-<!-- Imgae -->
-![Image](https://github.com/shingugitvr000/
-AI_Project/blob/main/ControlNet/
-Pixel.png)
+<!-- Image -->
+![Image](https://github.com/shingugitvr000/AI_Project/blob/main/ControlNet/Pixel.png)
 
 <!-- Table -->
 |Header|Description|Other|
