@@ -20,10 +20,14 @@ masterpiece, (1girl: 1.0), (forest: 1.0), (grass: 1.7), (sky: 1.0),
 > Parameters:
 masterpiece, (1girl: 1.0), (forest: 1.0), (grass: 1.0), (sky: 1.7),
 
+# Prompt alternating
+
 ![Image](https://github.com/namsuhan0322/AI_Project_2026_01_3B/blob/main/PROMPTADV/Prompt%20alternating.png?raw=true)
 
 > Parameters:
 masterpiece, [steampunk | science fiction], 1girl,
+
+# Blend two keywords
 
 ![Image](https://github.com/namsuhan0322/AI_Project_2026_01_3B/blob/main/PROMPTADV/Blend%20two%20keywords.png?raw=true)
 
